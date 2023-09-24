@@ -26,7 +26,6 @@ Stay tuned for our upcoming events that will take you on a cosmic journey.
   - Date: November 5, 2023
   - Description: Learn about the latest discoveries from Mars missions in this informative talk.
 
-*Add more events here*
 
 ## Gallery
 
