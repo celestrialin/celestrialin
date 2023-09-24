@@ -56,5 +56,5 @@ Join us on this cosmic journey! Follow us for the latest updates and become a pa
 
 ---
 
-Visit our website at [www.celestria.space](https://celestrialin.github.io/ca/home)
+Visit our website at [Celestria](https://celestrialin.github.io/ca/home)
 
